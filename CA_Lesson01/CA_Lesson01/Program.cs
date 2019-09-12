@@ -22,6 +22,8 @@ namespace CA_Lesson01
             string ageInput = Console.ReadLine();
 
             Console.WriteLine($"Oh coolio! You are {ageInput} years old!");
+
+            Console.WriteLine("I suppose this is the end of messing around with text :)");
         }
     }
 }
