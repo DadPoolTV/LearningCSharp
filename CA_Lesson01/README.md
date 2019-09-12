@@ -1,4 +1,5 @@
-#Changes to Files
+Changes to Files
+
 v1.0
 This was the intial upload of the file after I played around with some of the lesson points from CodeAcademy
 
