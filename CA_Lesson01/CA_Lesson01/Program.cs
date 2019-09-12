@@ -26,6 +26,6 @@ namespace CA_Lesson01
             Console.WriteLine("I suppose this is the end of messing around with text :)");
 
             //End of my Testing
-        }
+        } 
     }
 }
